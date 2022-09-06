@@ -8,7 +8,7 @@
 ### Socials
 <p align="left">
 <a href="https://t.me/kr6to"><img src="https://github.com/kr6to/kr6to/blob/main/img/telegram.svg" width="35">
-<a href="https://https://youtube.com/channel/UCnWdXOy1huWGu2w7n9maXyw"><img src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/youtube-dark.svg" width="30">
+<a href="https://youtube.com/channel/UCnWdXOy1huWGu2w7n9maXyw"><img src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/youtube-dark.svg" width="30">
 <a href="https://twitter.com/averiustar"><img src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg" width="30">
 <a href="https://tiktok.com/@arxicie"><img src="https://github.com/kr6to/kr6to/blob/main/img/tiktok.svg" width="34"></a></p>
 
